@@ -1,0 +1,3 @@
+# abstract_base_class_in_python
+
+Pythonで抽象基底クラスを実装する演習
